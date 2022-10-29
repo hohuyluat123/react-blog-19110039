@@ -1,3 +1,4 @@
+#npm start để chạy code react, nodemon server.js để chạy code phần backend, chạy song song thì mới lưu data được
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
